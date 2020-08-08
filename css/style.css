@@ -193,4 +193,7 @@ body{
     .features{
         padding-bottom: 0;
     }
+    .video{
+        height: 300px;
+    }
 }
